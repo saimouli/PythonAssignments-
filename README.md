@@ -1,6 +1,5 @@
-# PythonAssignments-
-
-#Strings
+# Notes 
+# Strings
 Negative Indexing string  
  
 Ex: Student_name= “Joana”
@@ -30,7 +29,7 @@ print str.isalpha()
  
 .isalpha 1st one returns true as it contains only strings without spaces 
  
-List Sequences 
+# List Sequences 
 Empty_list =[]
 mixed_list= [“who”, 1, 2, “this is a list]
  
